@@ -1,0 +1,1 @@
+This React Native bug arises when using the `FlatList` component with a large dataset and complex item rendering.  The issue manifests as extremely slow scrolling, lag, or even crashes. This is often due to inefficient rendering, excessive re-renders, or memory leaks within the item components.
